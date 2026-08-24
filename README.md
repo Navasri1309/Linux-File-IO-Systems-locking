@@ -72,6 +72,12 @@ int main(int argc, char *argv[]) {
 }
 
 ```
+
+## OUTPUT
+
+<img width="897" height="375" alt="Screenshot 2026-08-24 193644" src="https://github.com/user-attachments/assets/d04b3c94-e62c-4eb9-a554-c1a0b6cbc455" />
+
+
 ## 2.To Write a C program that illustrates files locking
 
 ```
@@ -145,8 +151,6 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-
-<img width="897" height="375" alt="Screenshot 2026-08-24 193644" src="https://github.com/user-attachments/assets/d04b3c94-e62c-4eb9-a554-c1a0b6cbc455" />
 
 <img width="1470" height="897" alt="Screenshot 2026-08-24 194124" src="https://github.com/user-attachments/assets/ec18be98-4910-45da-b4d5-d24af9c9fd3f" />
 
